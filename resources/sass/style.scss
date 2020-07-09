@@ -1,0 +1,48 @@
+$color-blue-primary: #2c3391;
+$color-blue-dark: #0c1159;
+$color-teal: #1f5f85;
+$color-gold-dark: #D18428;
+$color-gold-light: #FFDE82;
+$color-grey: #c9c9c9;
+$color-white: #ffffff;
+
+/*screen resolutions*/
+$break-xsmall: 320px;
+$break-small-w: 640px;
+$break-medium: 768px;
+$break-large: 1024px;
+$break-xlarge: 1250px;
+
+// Small devices
+@mixin sm {
+    @media screen and (min-width: #{$break-xsmall}) and (max-width: #{$break-medium}) {
+        @content;
+    }
+}
+
+// Medium devices
+@mixin md {
+    @media screen and (min-width: #{$break-medium}) and (max-width: #{$break-large}) {
+        @content;
+    }
+}
+
+// Large devices
+@mixin lg {
+    @media screen and (min-width: #{$break-large}) {
+        @content;
+    }
+}
+
+// XLarge devices
+@mixin xlg {
+    @media screen and (min-width: #{$break-xlarge}) {
+        @content;
+    }
+}
+
+.header-top{
+    font-weight: bold;
+    color: $color-white;
+    background-color: $color-blue-primary;
+}
