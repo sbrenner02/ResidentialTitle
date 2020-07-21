@@ -9,18 +9,11 @@
 </head>
 <body>
 @include('includes/header')
-<div class="container no-gutters justify-content-center content">
+<div class="container no-gutters justify-content-center content col-12 text-justify" id="content">
     <div class="row justify-content-center col-12 no-gutters">
-        <div class="col-1 text-center">
-
-        </div>
-        <div class="col-10">
+        <div class="col-lg-9 col-sm-12 p-4 content-bg">
             @yield('content')
         </div>
-        <div class="col-1 text-center">
-
-        </div>
-
     </div>
 </div>
 @include('includes/testimonials')

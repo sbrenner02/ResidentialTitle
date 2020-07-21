@@ -3,7 +3,7 @@ $color-blue-dark: #0c1159;
 $color-teal: #1f5f85;
 $color-gold-dark: #D18428;
 $color-gold-light: #FFDE82;
-$color-grey: #c9c9c9;
+$color-grey-light: #f8fafc;
 $color-white: #ffffff;
 
 /*screen resolutions*/
@@ -45,4 +45,79 @@ $break-xlarge: 1250px;
     font-weight: bold;
     color: $color-white;
     background-color: $color-blue-primary;
+}
+@font-face {
+    font-family: Marcellus;
+    src: url('/fonts/MarcellusSC-Regular.ttf');
+}
+
+body{
+    font-family: Marcellus;
+    font-size: 1.15rem;
+}
+
+a, a:active, a:hover, a:visited{
+    color: $color-blue-primary;
+}
+
+.white-link a, .white-link a:active, .white-link a:hover, .white-link a:visited {
+    color: $color-white;
+}
+
+.site-nav{
+    font-family: Marcellus;
+    background-color: $color-grey-light;
+    border-top: 2px solid $color-blue-primary;
+    border-bottom: 2px solid $color-blue-primary;
+
+    a{
+        font-size: 1.25rem;
+        margin: 0 1.5rem;
+        color: $color-blue-primary
+    }
+
+    li {
+        white-space: nowrap;
+    }
+}
+
+#content{
+    background: url('/images/background.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.content-bg{
+    background-color: rgba(255, 255, 255, 0.9);
+    min-height: 600px;
+}
+
+.blue-bg{
+    background-color: $color-blue-primary;
+}
+
+.nav-text{
+    font-weight: bold;
+    position: relative;
+    left: 40px;
+    top: 5px;
+    color: $color-blue-dark
+}
+
+h1{
+    font-size: 3rem;
+    color: $color-blue-primary;
+}
+
+h2{
+    color: $color-gold-dark;
+    font-variant: all-petite-caps;
+}
+
+.testimonials{
+    background-color: $color-blue-dark;
+    color: $color-white;
+}
+
+.footer{
+    padding: 1rem 0;
 }

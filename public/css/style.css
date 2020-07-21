@@ -5,4 +5,77 @@
   background-color: #2c3391;
 }
 
+@font-face {
+  font-family: Marcellus;
+  src: url("/fonts/MarcellusSC-Regular.ttf");
+}
+body {
+  font-family: Marcellus;
+  font-size: 1.15rem;
+}
+
+a, a:active, a:hover, a:visited {
+  color: #2c3391;
+}
+
+.white-link a, .white-link a:active, .white-link a:hover, .white-link a:visited {
+  color: #ffffff;
+}
+
+.site-nav {
+  font-family: Marcellus;
+  background-color: #f8fafc;
+  border-top: 2px solid #2c3391;
+  border-bottom: 2px solid #2c3391;
+}
+.site-nav a {
+  font-size: 1.25rem;
+  margin: 0 1.5rem;
+  color: #2c3391;
+}
+.site-nav li {
+  white-space: nowrap;
+}
+
+#content {
+  background: url("/images/background.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.content-bg {
+  background-color: rgba(255, 255, 255, 0.9);
+  min-height: 600px;
+}
+
+.blue-bg {
+  background-color: #2c3391;
+}
+
+.nav-text {
+  font-weight: bold;
+  position: relative;
+  left: 40px;
+  top: 5px;
+  color: #0c1159;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #2c3391;
+}
+
+h2 {
+  color: #D18428;
+  font-variant: all-petite-caps;
+}
+
+.testimonials {
+  background-color: #0c1159;
+  color: #ffffff;
+}
+
+.footer {
+  padding: 1rem 0;
+}
+
 /*# sourceMappingURL=style.css.map */
