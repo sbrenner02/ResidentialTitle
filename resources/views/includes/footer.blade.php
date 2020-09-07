@@ -10,7 +10,7 @@
     </div>
     <div class="col-lg-4 col-12 order-lg-3 order-2">
         <a href="mailto:info@residentialtitle.com" class="black-link">info@residentialtitle.com</a><br>
-        <a href="tel:410-653-3400" class="black-link">410-653-3400</a>
+        <a href="tel:410-653-3400" class="black-link">410-653-3400</a><br>
         <a href="https://www.facebook.com/ResTitle" target="_blank"><img src="/images/fblogo.png" class="social-icon-footer"></a>
     </div>
 

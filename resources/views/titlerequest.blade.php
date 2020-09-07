@@ -59,11 +59,11 @@
                     <input type="email" name="ordered_by_email" class="form-control" value="{{ old('ordered_by_email') }}"></label>
                 </div>
 
-                <div class="row col-12 mt-4">
+                <div class="row col-12 mt-4 no-gutters">
                     <div class="col-12 mt-4">
                         <h3>Borrowers</h3>
                     </div>
-                    <div class="col-6 row no-gutters">
+                    <div class="col-6 row no-gutters pr-md-3">
                         <div class="col-12">
                             <label class="w-100">Name<input type="text" class="form-control" name="borrower_1_name" value="{{ old('borrower_1_name') }}"></label>
                         </div>
@@ -99,7 +99,7 @@
                     </div>
                 </div>
 
-                <div class="row col-12 mt-4">
+                <div class="row col-12 mt-4 no-gutters">
                     <div class="col-12 mt-4">
                         <h3>Subject Property</h3>
                     </div>
@@ -259,7 +259,7 @@
                         <label>Zip<input type="text" class="form-control" name="seller_2_address_zip" value="{{ old('seller_2_address_zip') }}"></label>
                     </div>
                 </div>
-                <div class="row col-12 mt-4">
+                <div class="row col-12 mt-4 no-gutters">
                     <div class="col-12 mt-4">
                         <h3>Special Instructions</h3>
                     </div>
