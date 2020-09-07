@@ -28,140 +28,155 @@
             <h2>Trusted by Industry Leaders</h2>
             <p>When you choose Commercial Settlement Services, you’re joining a long list of successful organizations that have partnered with us for their commercial title services:
             </p>
-                A & R Development Corporation
-            J. Properties
-            Alex Cooper Auctioneers
-            America’s Realty
-            ARC Wheeler
-            Attman-Glazer Development
-            B & B Realty Services
-            Baltimore Development Corporation
-            Blueprint Concepts/David Holmes
-            Bob Ward Companies
-            The Bozzuto Group
-            Brooks & Goldman Realty
-            Caves Valley Partners
-            Chadwick Properties
-            Chesapeake Real Estate Group
-            Chesapeake Realty Management
-            CIMG
-            Clark Turner Companies
-            Continental Realty Corporation
-            The Cordish Company
-            Corinthian Realty Partners
-            Cormony Development
-            Corridor Reznick
-            Craftsmen Developers
-            David S. Brown Enterprises
-            Diversified Investment Associates
-            DMS Development
-            Doracon Development
-            R. Horton
-            Fairwinds Commercial
-            Greenebaum & Rose Associates
-            H & H Rock Companies
-            H & R Retail
-            H&S Properties Development
-            Hale Properties
-            Harborview Properties Development Company Helmsman Properties
-            The Henson Development Company
-            Hill Development Group
-            Iron Horse Properties
-            C. BAR Properties
-            Jabber Five Real Estate Group
-            Klein Enterprises
-            Klein Family Development
-            Kodiak Properties
-            Koren Development Company
-            Krocker Land Development
-            Land Design & Development
-            Land Development Services
-            MacKenzie Retail
-            Manekin LLC
-            Marenberg Enterprises
-            Mark Vogel Companies
-            McKee & Associates
-            Metropolitan Management
-            Midtown Group Development
-            Morris & Ritchie Associates
-            MS Development Group
-            Multi-Properties
-            NAI The Michael Companies
-            Old Town Construction
-            Orchard Development Corporation
-            The Pearlstone Group
-            PDC, Inc.
-            The Rachuba Group
-            Regional Investments
-            RVG Management and Development
-            Security Development Corporation
-            SJS Development
-            Skye Hospitality
-            Southern Land Company
-            John Properties, Inc.
-            Struever Bros., Eccles & Rouse
-            Summit Associates
-            The Time Group
-            TouchStone Partners
-            The Traffic Group
-            Turner Development
-            Vanguard Equities
-            Washington Management and Development
-            The Weiss Company
-            Whalen Properties
+            <ul>
+                <li>28 Walker Development</li>
+                <li>A. J. Properties</li>
+                <li>Alex Cooper Auctioneers</li>
+                <li>America’s Realty</li>
+                <li>ARC Wheeler</li>
+                <li>Attman Development</li>
+                <li>B & B Realty Services</li>
+                <li>Baltimore Development Corporation</li>
+                <li>Beatty Development Group</li>
+                <li>Blue Ocean</li>
+                <li>Blueprint Concepts/David Holmes</li>
+                <li>Bob Ward Companies</li>
+                <li>The Bozzuto Group</li>
+                <li>Brooks & Goldman Realty</li>
+                <li>Caves Valley Partners</li>
+                <li>Chadwick Properties</li>
+                <li>Chesapeake Real Estate Group</li>
+                <li>Chesapeake Realty Partner</li>
+                <li>Continental Realty Corporation</li>
+                <li>The Cordish Company</li>
+                <li>Corinthian Realty Partners</li>
+                <li>Cormony Development</li>
+                <li>Corridor Reznick</li>
+                <li>Craftsmen Developers</li>
+                <li>Cross street Partners</li>
+                <li>David S. Brown Enterprises</li>
+                <li>Diversified Investment Associates</li>
+                <li>DMS Development</li>
+                <li>Dracon Development</li>
+                <li>D. R. Horton</li>
+                <li>Fairwinds Commercial</li>
+                <li>Greenebaum Enterprises</li>
+                <li>Greenspring Realty</li>
+                <li>H & H Rock Companies</li>
+                <li>H & R Retail</li>
+                <li>H&S Properties Development</li>
+                <li>Hale Properties</li>
+                <li>Harborview Properties Development Company</li>
+                <li>Helmsman Properties</li>
+                <li>The Henson Development Company</li>
+                <li>Hill Development Group</li>
+                <li>The Hogan Group</li>
+                <li>Iron Horse Properties</li>
+                <li>J.C. BAR Properties</li>
+                <li>Jabber Five Real Estate Group</li>
+                <li>Jones Automotive</li>
+                <li>Klein Enterprises</li>
+                <li>Klein Family Development</li>
+                <li>Kodiak Properties</li>
+                <li>Koons Automotive</li>
+                <li>Koren Development Company</li>
+                <li>Krocker Land Development</li>
+                <li>Land Design & Development</li>
+                <li>Lou Cohen</li>
+                <li>MacKenzie Retail</li>
+                <li>Manekin LLC</li>
+                <li>Marenberg Enterprises</li>
+                <li>Mark Vogel Companies</li>
+                <li>Metropolitan Management</li>
+                <li>MFI Realty</li>
+                <li>Mile One</li>
+                <li>Midtown Group Development</li>
+                <li>Mosaic Realty Partners</li>
+                <li>Morris & Ritchie Associates</li>
+                <li>MS Development Group</li>
+                <li>Multi-Properties</li>
+                <li>NAI The Michael Companies</li>
+                <li>Old Town Construction</li>
+                <li>Orchard Development Corporation</li>
+                <li>The Pearlstone Group</li>
+                <li>Prestige Auto</li>
+                <li>The Rachuba Group</li>
+                <li>Regional Builders</li>
+                <li>RVG Management and Development</li>
+                <li>Security Development Corporation</li>
+                <li>SJS Development</li>
+                <li>Skye Hospitality</li>
+                <li>Southern Land Company</li>
+                <li>St. John Properties, Inc.</li>
+                <li>Summit Associates</li>
+                <li>The Time Group</li>
+                <li>TouchStone Partners</li>
+                <li>The Traffic Group</li>
+                <li>Turner Development</li>
+                <li>Vanguard Equities</li>
+                <li>Washington Management and Development</li>
+                <li>The Weiss Company</li>
+                <li>Whalen Properties</li>
+                <li>Wood Partners</li>
+            </ul>
 
             <h2 class="mt-3">Our attorney clients include:</h2>
-
-            Abramoff, Neuberger & Linder
-            Ballard Spahr
-            Bean Kinney & Korman
-            Carney, Kelehan, Bresler, Bennett & Scherr LLP
-            DLA Piper Rudnick Gray Cary
-            Gallagher, Evelius & Jones
-            Gildea & Schmidt
-            Gordon, Feinblatt, Rothman, Hoffberger & Hollander
-            Hodes, Pessin & Katz
-            McGuire Woods
-            Miles & Stockbridge
-            Naka, Huttar & Oldhouser
-            Neuberger, Quinn, Gielen, Rubin & Gibber
-            Nixon Peabody
-            Ober Kaler
-            Pursel & Drinkard
-            Rosenbergl Martinl Greenberg
-            Shapiro Sher Guinot & Sandler
-            Venable LLP
-            Whiteford, Taylor & Preston
-            Womble Carlyle Sandridge & Rice
-
+            <ul>
+                <li>Abramoff, Neuberger & Linder</li>
+                <li>Ballard Spahr</li>
+                <li>Bean Kinney & Korman</li>
+                <li>Carney, Kelehan, Bresler, Bennett & Scherr LLP</li>
+                <li>DLA Piper Rudnick Gray Cary</li>
+                <li>Gallagher, Evelius & Jones</li>
+                <li>Gildea & Schmidt</li>
+                <li>Gordon, Feinblatt LLC</li>
+                <li>GPS Law Group</li>
+                <li>McGuire Woods</li>
+                <li>Miles & Stockbridge</li>
+                <li>Naka, Huttar & Oldhouser</li>
+                <li>Neuberger, Quinn, Gielen, Rubin & Gibber</li>
+                <li>Nixon Peabody</li>
+                <li>Ober Kaler</li>
+                <li>PK Law</li>
+                <li>Pursel & Drinkard</li>
+                <li>Rosenberg Martin Greenberg</li>
+                <li>Shapiro Sher</li>
+                <li>Venable LLP</li>
+                <li>Whiteford, Taylor & Preston</li>
+                <li>Womble Carlyle Sandridge & Rice</li>
+            </ul>
+           
             <h2 class="mt-3">Our lender clients include:</h2>
-
-            1st Mariner Bank
-            AccuBanc Mortgage Corporation
-            AmTrust Bank
-            Archon Financial
-            Capitol Mortgage Finance Corp.
-            Chase Home Finance
-            The Columbia Bank
-            Columbia National Real Estate Finance
-            Eastern Union Commercial
-            The Harbor Bank of Maryland
-            Hopkins Federal Savings Bank
-            HSBC
-            K Bank
-            M&T Bank
-            MacKenzie Capital
-            Madison Funding
-            Meridian Capital Group
-            MetLife Home Loans
-            Morgan Stanley
-            NorthMarq Capital
-            PNC Bank
-            SouthTrust Bank
-            SunTrust Mortgage Corporation
-            Susquehanna Bank
-            Wachovia Bank
-            Wells Fargo Home Mortgage
+            <ul>
+                <li>AccuBanc Mortgage Corporation</li>
+                <li>AmTrust Bank</li>
+                <li>Archon Financial</li>
+                <li>Capitol Mortgage Finance Corp.</li>
+                <li>Chase Home Finance</li>
+                <li>Columbia National Real Estate Finance</li>
+                <li>Eastern Union Commercial</li>
+                <li>The Harbor Bank of Maryland</li>
+                <li>First National Bank</li>
+                <li>Firstrust Bank</li>
+                <li>Fulton Bank</li>
+                <li>Hopkins Federal Savings Bank</li>
+                <li>Howard Bank</li>
+                <li>HSBC</li>
+                <li>M&T Bank</li>
+                <li>MacKenzie Capital</li>
+                <li>Madison Funding</li>
+                <li>Meridian Capital Group</li>
+                <li>MetLife Home Loans</li>
+                <li>Morgan Stanley</li>
+                <li>NorthMarq Capital</li>
+                <li>Oorstown Bank</li>
+                <li>PNC Bank</li>
+                <li>Sandy Spring Bank</li>
+                <li>SouthTrust Bank</li>
+                <li>Truist Bank</li>
+                <li>Wachovia Bank</li>
+                <li>Wells Fargo Home Mortgage</li>
+            </ul>
         </div>
     </div>
 @endsection

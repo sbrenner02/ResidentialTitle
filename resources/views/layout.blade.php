@@ -18,7 +18,7 @@
 </div>
 @include('includes/testimonials')
 @include('includes/footer')
-
-<script src="{{ asset('js/app.js') }}"></script>
 </body>
+<script src="{{ asset('js/app.js') }}"></script>
+@yield('scripts')
 </html>

@@ -10,15 +10,15 @@ use Illuminate\Queue\SerializesModels;
 class TitleRequest extends Mailable
 {
     use Queueable, SerializesModels;
-
+    public $data;
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct()
+    public function __construct($data)
     {
-        //
+        $this->data = $data;
     }
 
     /**
@@ -28,6 +28,6 @@ class TitleRequest extends Mailable
      */
     public function build()
     {
-        return $this->view('view.name');
+        return $this->from('noreply@residentialtitle.com')->subject('New Title Request Received')->view('emails.titlerequest')->with('data', $this->data);
     }
 }

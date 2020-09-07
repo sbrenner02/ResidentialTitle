@@ -92,7 +92,12 @@ a, a:active, a:hover, a:visited{
 }
 
 .blue-bg{
-    background-color: $color-blue-primary;
+    background-color: $color-blue-primary !important;
+}
+
+.blue-button, .blue-button:hover{
+    border: solid $color-white 1px;
+    background-color: $color-blue-primary !important;
 }
 
 .nav-text{
@@ -116,8 +121,28 @@ h2{
 .testimonials{
     background-color: $color-blue-dark;
     color: $color-white;
+    height: 150px;
 }
 
 .footer{
     padding: 1rem 0;
+}
+
+.quick-button{
+    width: 65px;
+}
+
+.social-icon-header{
+    width: 1.5rem;
+    margin-left: 1rem;
+    filter: invert(1);
+}
+
+.social-icon-footer{
+    width: 1.25rem;
+    margin-left: 1rem;
+}
+
+.black-link, .black-link:active, .black-link:hover{
+    color: #000000;
 }

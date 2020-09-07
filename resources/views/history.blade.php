@@ -6,10 +6,7 @@
     </div>
     <div class="col-9">
     <h1>History</h1>
-    <p>Residential Title Office BuildingResidential Title & Escrow Company and Commercial Settlement Services have provided the finest real estate title services to commercial and residential clients for over three decades. We’ve built a singular reputation for personalized, professional and cost-effective service.
-
-    Headquartered in Owings Mills, Maryland, we also serve our clients from offices in Harford and Anne Arundel counties, and in Sussex County, Delaware. Residential Title & Escrow Company is licensed in Pennsylvania, Delaware, Washington DC, West Virginia, and Maryland. Commercial Settlement Services can work with clients in all 50 states and around the world through our underwriter’s national division.
-    </p>
+    <p>Residential Title and Escrow Company and Commercial Settlement Services, LLC, have provided the finest real estate title services to commercial and residential clients for over three decades. We’ve built a singular reputation for personalized, professional, and cost-effective service. Headquartered in Owings Mills, Maryland, we also serve our clients from offices in Harford and Anne Arundel counties, and in Sussex County, Delaware. Residential Title & Escrow Company is licensed in Pennsylvania, Delaware, Washington DC, West Virginia, and Maryland. Commercial Settlement Services can work with clients in all 50 states and around the world through our underwriter’s national division.</p>
     <h2 class="my-3">Woman-Owned</h2>
     <p>Residential Title & Escrow Company and Commercial Settlement Services are woman-owned companies, certified in Baltimore City as a Women’s Business Enterprise (WBE/MBE).
     </p>
