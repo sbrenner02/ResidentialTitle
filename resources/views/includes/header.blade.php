@@ -2,7 +2,7 @@
     <div class="white-link text-center my-auto col-4 order-0 px-1 px-md-0">
         <a href="mailto:info@residentialtitle.com" class="my-auto">info@residentialtitle.com</a>
     </div>
-    <div class="text-center py-2 white-link col-sm-4 col-lg-12 order-2 order-md-1">
+    <div class="text-center py-2 white-link col-sm-12 col-md-4 order-sm-2 order-md-1">
         <button type="button" class="btn btn-sm btn-primary blue-button" data-toggle="modal" data-target="#exampleModalLong">
             See Our COVID-19 Protocol
         </button>
