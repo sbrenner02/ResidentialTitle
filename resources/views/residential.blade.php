@@ -1,14 +1,14 @@
 @extends('layout')
 @section('content')
     <div class="row col-12 no-gutters">
-        <div class="col-3">
-            <img class="w-100 pb-3 pr-3" src="/images/Bulle-Rock-Home-Triple-Crown.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/castlefield-manchester.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/Catonsville-Homes-Custom-Home-Sykesville.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/Procopio-Dorchester.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/summit-Homes-model-photo.jpg">
+        <div class="col-12 col-md-3 order-1 order-md-0">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/Bulle-Rock-Home-Triple-Crown.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/castlefield-manchester.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/Catonsville-Homes-Custom-Home-Sykesville.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/Procopio-Dorchester.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/summit-Homes-model-photo.jpg">
         </div>
-        <div class="col-9">
+        <div class="col-12 col-md-9 order-0 order-md-1">
         <h1>Residential Services</h1>
         <p>Residential Title & Escrow Company is a full service real estate title firm, capable of providing personal attention and efficient results throughout the entire settlement process. Our staff of experienced professionals have both the local and industry-wide expertise to deliver peace of mind to the settlement table when you’re ready to close on your next home.
         </p>

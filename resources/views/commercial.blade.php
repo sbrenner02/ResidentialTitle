@@ -1,14 +1,14 @@
 @extends('layout')
 @section('content')
     <div class="row col-12 no-gutters">
-        <div class="col-3">
-            <img class="w-100 pb-3 pr-3" src="/images/harborview.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/naty-boh.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/MD-Live.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/WEGMANS5.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/whole-foods-market.jpg">
+        <div class="col-12 col-md-3 order-1 order-md-0">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/harborview.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/naty-boh.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/MD-Live.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/WEGMANS5.jpg">
+            <img class="w-100 pb-3 pr-0 pr-md-3" src="/images/whole-foods-market.jpg">
         </div>
-        <div class="col-9">
+        <div class="col-12 col-md-9 order-0 order-md-1">
             <h1>Commercial Services</h1>
 
             <p>Commercial Settlement Services offers complete commercial real estate title services. We’ve built our reputation over three decades of providing responsible, efficient, and personal service for some of the best known commercial properties and businesses in the area.</p>
@@ -145,7 +145,7 @@
                 <li>Whiteford, Taylor & Preston</li>
                 <li>Womble Carlyle Sandridge & Rice</li>
             </ul>
-           
+
             <h2 class="mt-3">Our lender clients include:</h2>
             <ul>
                 <li>AccuBanc Mortgage Corporation</li>

@@ -9,9 +9,9 @@
 </head>
 <body>
 @include('includes/header')
-<div class="container no-gutters justify-content-center content col-12 text-justify" id="content">
+<div class="container-fluid no-gutters justify-content-center content col-12 p-0" id="content">
     <div class="row justify-content-center col-12 no-gutters">
-        <div class="col-lg-9 col-sm-12 p-4 content-bg">
+        <div class="col-xl-9 col-12 p-md-4 content-bg">
             @yield('content')
         </div>
     </div>

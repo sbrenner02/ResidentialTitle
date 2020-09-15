@@ -1,11 +1,11 @@
 @extends('layout')
 @section('content')
     <div class="row col-12 no-gutters">
-        <div class="col-3">
-            <img class="w-100 pb-3 pr-3" src="/images/naty-boh.jpg">
-            <img class="w-100 pb-3 pr-3" src="/images/Catonsville-Homes-Custom-Home-Sykesville.jpg">
+        <div class="col-12 col-md-3 order-1 order-md-0">
+            <img class="w-100 pb-3 pr-md-3" src="/images/naty-boh.jpg">
+            <img class="w-100 pb-3 pr-md-3" src="/images/Catonsville-Homes-Custom-Home-Sykesville.jpg">
         </div>
-        <div class="col-9">
+        <div class="col-12 col-md-9 order-0 order-md-1">
             <h1 class="text-center">Welcome</h1>
             <h2 class="text-center">We bring peace of mind to the settlement table</h2>
             Purchasing a property may be the biggest investment you make. We can help make your investment with confidence. With over one billion dollars a year in title insurance on residential and commercial properties closed each year, our team has earned a reputation over three decades for providing the finest in title examination, title insurance, settlements and related services.

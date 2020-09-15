@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
-    <h1>Meet Our Team</h1>
-<div id="profiles" class="profiles">
+    <h1 class="text-center">Meet Our Team</h1>
+<div id="profiles" class="row col-12 no-gutters profiles">
     <p>Our staff draws from a range of experience in real estate, allowing you to complete even the most complicated settlements with confidence. Our range of title and closing services includes title searches, title examinations, title insurance, closing cost estimations, escrow services, residential closing services and commercial closing services.
     </p>
     <div class="my-3">

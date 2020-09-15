@@ -1,4 +1,4 @@
-<div class="text-center py-3 testimonials">
+<div class="text-center py-3 testimonials text-justify">
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">

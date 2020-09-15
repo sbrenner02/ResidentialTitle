@@ -39,7 +39,7 @@
             <h1>Our Offices</h1>
         </div>
         <div class="row no-gutters justify-content-between">
-            <div class="col-3 row no-gutters text-center">
+            <div class="col-lg-3 col-12 row no-gutters text-center pb-3">
                 <div class="col-12"><b>Corporate Office in Owings Mills, MD</b></div>
                 <div class="col-12">100 Painters Mill Road<br>
                     Suite 200<br>
@@ -47,20 +47,20 @@
                     Phone 410-653-3400<br>
                     Fax 410-653-3621</div>
             </div>
-            <div class="col-3 row no-gutters text-center">
+            <div class="col-lg-3 col-12 row no-gutters text-center pb-3">
                 <div class="col-12"><b>Bel Air Office</b></div>
                 <div class="col-12">
                     2105 Laurel Bush Road<br>
                     Suite 102<br>
                     Bel Air, MD 21015</div>
             </div>
-            <div class="col-3 row no-gutters text-center">
+            <div class="col-lg-3 col-12 row no-gutters text-center pb-3">
                 <div class="col-12"><b>Milford, Delaware Office<br>(Moore & Rutt, P.A.)</b></div>
                 <div class="col-12">
                     830 S Dupont Blv<br>
                     Milford, DE 19963-2233</div>
             </div>
-            <div class="col-3 row no-gutters text-center">
+            <div class="col-lg-3 col-12 row no-gutters text-center pb-3">
                 <div class="col-12"><b>Bowie, MD</b></div>
                 <div class="col-12">
                     16701 Melford Blvd.<br>

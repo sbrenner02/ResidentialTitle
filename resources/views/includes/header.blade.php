@@ -1,25 +1,24 @@
 <div class="header-top row justify-content-between no-gutters">
-    <div class="white-link col-md-4 text-center my-auto col-12">
+    <div class="white-link text-center my-auto col-4 order-0 px-1 px-md-0">
         <a href="mailto:info@residentialtitle.com" class="my-auto">info@residentialtitle.com</a>
     </div>
-    <div class="text-center py-2 white-link col-md-4 col-12">
-        {{--<a href="/files/RTEC-CSS-Is-Open-For-Business-04-20-2020.pdf" download>See Our COVID-19 Protocol</a>--}}
-        <button type="button" class="btn btn-primary blue-button" data-toggle="modal" data-target="#exampleModalLong">
+    <div class="text-center py-2 white-link col-sm-4 col-lg-12 order-2 order-md-1">
+        <button type="button" class="btn btn-sm btn-primary blue-button" data-toggle="modal" data-target="#exampleModalLong">
             See Our COVID-19 Protocol
         </button>
     </div>
-    <div class="white-link col-md-4 text-center my-auto col-12">
+    <div class="white-link text-center my-auto col-4 order-md-2 order-sm-2 px-1 px-md-0">
         <a href="tel:410-653-3400">410-653-3400</a>
         <a href="https://www.facebook.com/ResTitle" target="_blank"><img src="/images/fblogo.png" class="social-icon-header"></a>
     </div>
 </div>
 <div class="topbar pl-3 container">
-    <div class="row justify-content-around py-4 no-gutters">
-        <div>
-            <a href="/"><img src="/images/residential_logo.png"></a>
+    <div class="row justify-content-around py-4 no-gutters px-1">
+        <div class="pb-2 pb-md-0 col-6 text-center">
+            <a href="/"><img class="nav-logo" src="/images/residential_logo.png"></a>
         </div>
-        <div>
-            <a href="/commercial"><img src="/images/commercial_logo.png"></a>
+        <div class="col-6 text-center">
+            <a href="/commercial"><img class="nav-logo" src="/images/commercial_logo.png"></a>
         </div>
     </div>
 </div>
