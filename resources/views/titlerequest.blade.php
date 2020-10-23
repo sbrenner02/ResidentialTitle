@@ -33,15 +33,15 @@
                 <div class="col-sm-12 col-md-4">
                     <label class="w-100">Account Executive
                         <select class="form-control" name="account_executive" value="{{ old('account_executive') }}">
-                            <option value="Not Specified" selected>Not Specified</option>
-                            <option value="Alicia Small">Alicia Small</option>
-                            <option value="Brooke Adler">Brooke Adler</option>
-                            <option value="Jackie Nelson">Jackie Nelson</option>
-                            <option value="Judy Borns">Judy Borns</option>
-                            <option value="Kellee Dougherty">Kellee Dougherty</option>
-                            <option value="Melissa Blizzard">Melissa Blizzard</option>
-                            <option value="Robin Abney-Sivey">Robin Abney-Spivey</option>
-                            <option value="Robyn Perlow">Robyn Perlow</option>
+                            <option value="Not Specified" @if (empty(old('account_executive')))selected @endif>Not Specified</option>
+                            <option value="Alicia Small" @if (old('account_executive') == 'Alicia Small')selected @endif>Alicia Small</option>
+                            <option value="Brooke Adler" @if (old('account_executive') == 'Brooke Adler')selected @endif>Brooke Adler</option>
+                            <option value="Jackie Nelson" @if (old('account_executive') == 'Jackie Nelson')selected @endif>Jackie Nelson</option>
+                            <option value="Judy Borns" @if (old('account_executive') == 'Judy Borns')selected @endif>Judy Borns</option>
+                            <option value="Kellee Dougherty" @if (old('account_executive') == 'Kellee Dougherty')selected @endif>Kellee Dougherty</option>
+                            <option value="Melissa Blizzard" @if (old('account_executive') == 'Melissa Blizzard')selected @endif>Melissa Blizzard</option>
+                            <option value="Robin Abney-Sivey" @if (old('account_executive') == 'Robin Abney-Spivey')selected @endif>Robin Abney-Spivey</option>
+                            <option value="Robyn Perlow" @if (old('account_executive') == 'Robyn Perlow')selected @endif>Robyn Perlow</option>
                         </select></label>
                 </div>
             </div>
@@ -106,25 +106,25 @@
                     <div class="col-sm-6 col-md-4 pr-3">
                         <label class="w-100">Transaction Type
                             <select class="form-control" name="transaction_type" value="{{ old('transaction_type') }}">
-                                <option selected disabled></option>
-                                <option value="Purchase">Purchase</option>
-                                <option value="Cash Transaction">Cash Transaction</option>
-                                <option value="Refinance">Refinance</option>
-                                <option value="Foreclosure">Foreclosure</option>
-                                <option value="Title Search/Abstract Only">Title Search/Abstract Only</option>
+                                <option @if (empty(old('transaction_type'))) selected @endif disabled></option>
+                                <option value="Purchase" @if (old('transaction_type') == 'Purchase')selected @endif>Purchase</option>
+                                <option value="Cash Transaction" @if (old('transaction_type') == 'Cash Transaction')selected @endif>Cash Transaction</option>
+                                <option value="Refinance" @if (old('transaction_type') == 'Refinance')selected @endif>Refinance</option>
+                                <option value="Foreclosure" @if (old('transaction_type') == 'Foreclosure')selected @endif>Foreclosure</option>
+                                <option value="Title Search/Abstract Only" @if (old('transaction_type') == 'Title Search/Abstract Only')selected @endif>Title Search/Abstract Only</option>
                             </select></label>
                     </div>
                     <div class="col-sm-6 col-md-4">
                         <label class="w-100">Type of Property
                             <select class="form-control" name="property_type" value="{{ old('property_type') }}">
-                                <option selected disabled></option>
-                                <option value="Single Family">Single Family</option>
-                                <option value="Condo">Condo</option>
-                                <option value="Townhome or Rowhouse">Townhome or Rowhouse</option>
-                                <option value="Commercial">Commercial</option>
-                                <option value="Mixed Use">Mixed Use</option>
-                                <option value="Vacant Land">Vacant Land</option>
-                                <option value="Other">Other</option>
+                                <option @if(empty(old('property_type')))selected @endif disabled></option>
+                                <option value="Single Family"  @if(old('property_type') == 'Single Family')selected @endif>Single Family</option>
+                                <option value="Condo"  @if(old('property_type') == 'Condo')selected @endif>Condo</option>
+                                <option value="Townhome or Rowhouse"  @if(old('property_type') == 'Townhome or Rowhouse')selected @endif>Townhome or Rowhouse</option>
+                                <option value="Commercial"  @if(old('property_type') == 'Commercial')selected @endif>Commercial</option>
+                                <option value="Mixed Use"  @if(old('property_type') == 'Mixed Use')selected @endif>Mixed Use</option>
+                                <option value="Vacant Land"  @if(old('property_type') == 'Vacant Land')selected @endif>Vacant Land</option>
+                                <option value="Other"  @if(old('property_type') == 'Other')selected @endif>Other</option>
                             </select></label>
                     </div>
                     <div class="col-6 pr-2">
@@ -169,7 +169,7 @@
                     <h3>Lender Info</h3>
                 </div>
                 <div class="col-sm-12 col-md-6">
-                    <label class="w-100">Lender Name
+                    <label class="w-100">Lender Contact
                         <input type="text" name="lender_name" class="form-control" value="{{ old('lender_name') }}"></label>
                 </div>
                 <div class="col-sm-12 col-md-6">
@@ -264,7 +264,7 @@
                         <h3>Special Instructions</h3>
                     </div>
                     <div class="col-12 row no-gutters pr-0">
-                        <textarea name="instructions" rows="8" required class="form-control w-100 font-weight-bold"></textarea>
+                        <textarea name="instructions" rows="8" class="form-control w-100 font-weight-bold"></textarea>
                     </div>
                 </div>
                 <div class="col-12 mt-3">

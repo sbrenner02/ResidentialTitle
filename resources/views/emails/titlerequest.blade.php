@@ -56,6 +56,6 @@
 <b>Address:</b> {{ $data['seller_2_address_street'] }}   {{ $data['seller_2_address_city'] }}, {{ $data['seller_2_address_state'] }} {{ $data['seller_2_address_zip'] }}<br>
 <br>
 <b>Special Instructions:</b><br>
-{!! nl2br(e($data['message']))!!}}
+{!! nl2br(e($data['instructions']))!!}
 </body>
 </html>

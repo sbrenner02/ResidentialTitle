@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="/css/style.css" type="text/css" rel="stylesheet">
+    <link href="/css/style.css?@php echo time() @endphp" type="text/css" rel="stylesheet">
     <title>Residential Title</title>
 </head>
 <body>

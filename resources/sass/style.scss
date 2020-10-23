@@ -165,10 +165,36 @@ h2{
     @include md{
         width: 80%;
     }
+    @include lg{
+        width: 45%;
+    }
+    @include xlg{
+        width: 45%;
+    }
 }
 
 label{
     @include sm{
         font-size: .8rem;
+    }
+}
+
+.blue-border{
+    border: 2px solid $color-blue-primary;
+}
+
+.blue-text{
+    color: $color-blue-primary;
+}
+
+.white-bg{
+    background-color: $color-white;
+}
+
+.gallery{
+    width: 100%;
+
+    @include lg{
+        width: 80%;
     }
 }
